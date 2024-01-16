@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "It's time to mix drinks & change lifes."
   location         : "Korea"
-  email            : "snf06048@naver.com"
+  email            : "yhdusghk1210@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "yhdusghk1210@gmail.com"
+      url: #"0@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
